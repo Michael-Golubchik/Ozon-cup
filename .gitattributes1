@@ -1,0 +1,11 @@
+* eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.sh text eol=lf
+*.txt text eol=lf
+*.ipynb text eol=lf
+Dockerfile text eol=lf
+/.rubert_tokenizer/*.txt text eol=lf
+/.rubert_tokenizer/*.json text eol=lf
+/.rubert-tiny2/*.txt text eol=lf
+/.rubert-tiny2/*.json text eol=lf

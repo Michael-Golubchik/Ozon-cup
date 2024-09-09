@@ -1,0 +1,10 @@
+.git
+.ipynb_checkpoints
+__pycache__
+data
+logs
+model
+old
+results
+wandb
+bert.pkl
